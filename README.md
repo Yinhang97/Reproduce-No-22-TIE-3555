@@ -1,6 +1,8 @@
 # code-and-data-for-reproducing-paper-No-22-TIE-3555
 code and data for reproducing paper No-22-TIE-3555 entitled "Fourier-based Vibration Model of Electrical Machines Considering Nonideal Orthogonality between Electromagnetic Forces and Structural Modes"
 
+The original data and code are within master branch:
+
 1. The cls_machine.m is a class to define the basis parameters of machine
 
 2. The force_struct.m is a struct which includes the radial and tagential components of forces, which are given by sampling sequences of force field. 
